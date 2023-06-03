@@ -1,14 +1,14 @@
-### Team Abode is narrowing it's content span
+### Team Abode is narrowing its content span
 Over quite some time, the team has been considering switching back to making content **solely** for Fabric. The reason behind this change is due to the severe burnout many of the team experienced. We ultimately decided that we should stick with what we know best, and what makes developing fun, to begin with.
 
 This decision may seem weird, but I hope you can all understand. Instead of finding ways to implement a feature on two platforms, we can allocate more development time to making our mods even better!
 
 ### Cave Enhancements is being deprecated... sorta.
-Cave Enhancements will no longer be updated to 1.20, it will remain on Forge and Fabric on 1.19.2. Excluding the last patch that was released a couple weeks ago, this mod will no longer receive any updates. As a team, we feel Cave Enhancements may start to feel isolated after we start releasing more mods, as it's roots and features are from a completely different era.
+Cave Enhancements will no longer be updated to 1.20, it will remain on Forge and Fabric on 1.19.2. Excluding the last patch that was released a couple weeks ago, this mod will no longer receive any updates. As a team, we feel Cave Enhancements may start to feel isolated after we start releasing more mods, as its roots and features are from a completely different era.
 
 Lithoscape is a new project, which plans on bringing over certain Cave Enhancements features, polishing their design to be up to standards. Some notable features are:
 
-* The removal of the Rose Quartz Caves, with another cave biome replacing it. Rose Quartz will still exist, but it won't have it's own cave biome.
+* The removal of the Rose Quartz Caves, with another cave biome replacing it. Rose Quartz will still exist, but it won't have its own cave biome.
 * Several features being revamped to have improved mechanics.
 * Brand new exciting features!
 
